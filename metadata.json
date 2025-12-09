@@ -1,0 +1,5 @@
+{
+  "name": "智考宝典 (Smart Exam Bible)",
+  "description": "A professional quiz application with JSON import, wrong answer review, and AI-powered explanations using Gemini.",
+  "requestFramePermissions": []
+}
